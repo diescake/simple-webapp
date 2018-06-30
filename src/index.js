@@ -1,2 +1,1 @@
-const e = document.getElementById('root');
-e.innerText = 'hello! Simple WebApp!!';
+document.getElementById('root').innerText = 'hello! Simple WebApp!!';
