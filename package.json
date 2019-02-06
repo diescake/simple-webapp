@@ -16,7 +16,7 @@
     "json-loader": "^0.5.7",
     "webpack": "^4.29.1",
     "webpack-cleanup-plugin": "^0.5.1",
-    "webpack-cli": "^3.2.1",
+    "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.1.14",
     "yaml-loader": "^0.5.0"
   }
