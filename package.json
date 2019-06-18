@@ -17,7 +17,7 @@
     "webpack": "^4.34.0",
     "webpack-cleanup-plugin": "^0.5.1",
     "webpack-cli": "^3.3.4",
-    "webpack-dev-server": "^3.7.1",
+    "webpack-dev-server": "^3.7.2",
     "yaml-loader": "^0.5.0"
   }
 }
